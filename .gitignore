@@ -1,0 +1,4 @@
+*.pyc
+fabfile.py
+dmg/local_settings.py
+dmg/media/
